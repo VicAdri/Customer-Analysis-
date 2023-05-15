@@ -25,5 +25,5 @@ To explore the data, I performed data visualization in Tableau.
   6. Quantity - Discount Percentage Correlation
   
  # Dashboard from the analysis
-   Tableau link: https://public.tableau.com/app/profile/victor.adrian7326/viz/CustomerAnalysis-DescriptiveAnalysis/Dashboard1
+   Tableau link: https://public.tableau.com/app/profile/victor.adrian7326/viz/shared/TGRPK3P88
   ![Dashboard (1)](https://user-images.githubusercontent.com/75166160/232820222-ce5c6eb4-48c7-46ce-b6d5-dfce29dbedaf.png)
